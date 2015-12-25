@@ -2,7 +2,6 @@
 
 ## Screenshots
 <img src='http://files.cnblogs.com/files/mrpod2g/earth1.gif' width='500' />
-<img src='http://files.cnblogs.com/files/mrpod2g/earth2.gif' width='500' />
 
 ## Introduction
 - 实时动态地球壁纸！
