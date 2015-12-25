@@ -1,5 +1,5 @@
 # LiveEarth!
-## introduction
+## Introduction
 - 实时动态地球壁纸！
 - 地球照片抓自[himawari-8](http://himawari8.nict.go.jp/)
 - 默认每一小时抓取一次
